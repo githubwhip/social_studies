@@ -11,3 +11,7 @@ accelerate
 faiss-cpu
 transformers>=4.30.0
 sentence-transformers
+openai>=0.27.8
+langchain>=0.0.325
+pydantic>=1.10.0,<2.0
+streamlit>=1.25.0
