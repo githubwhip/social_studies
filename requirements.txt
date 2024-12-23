@@ -1,0 +1,8 @@
+streamlit
+tiktoken
+langchain
+loguru
+faiss-cpu
+unstructured
+PyPDF2
+python-docx
