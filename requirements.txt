@@ -7,3 +7,6 @@ unstructured
 PyPDF2
 python-docx
 langchain_community
+transformers
+accelerate
+faiss-cpu
