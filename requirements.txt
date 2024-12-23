@@ -6,3 +6,4 @@ faiss-cpu
 unstructured
 PyPDF2
 python-docx
+langchain_community
