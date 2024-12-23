@@ -20,7 +20,7 @@ from langchain.callbacks import get_openai_callback
 from langchain.memory import StreamlitChatMessageHistory
 
 # 내장된 OpenAI API 키
-OPENAI_API_KEY = "your_openai_api_key_here"
+OPENAI_API_KEY = st.secrets["openai_api_key"]
 
 def main():
     st.set_page_config(
